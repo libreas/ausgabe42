@@ -1,0 +1,2 @@
+---
+**Sara Juen**, (M.A. Information Science) ist wissenschaftliche Mitarbeiterin am Institut für Gender & Diversity an der OST - Ostschweizer Fachhochschule in St. Gallen und Redaktionsmitglied der LIBREAS. Library Ideas. ORCID: https://orcid.org/0000-0003-0725-8592

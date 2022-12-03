@@ -1,0 +1,2 @@
+---
+**Ben Kaden** ist Mitherausgeber von LIBREAS und beschäftigt sich abseits seiner bibliothekswissenschaftlichen Aktivitäten zunehmend mit dem Themenfeld der "Philokartie". Zuletzt erschien von ihm zum Thema die Publikation "Karten zur Ostmoderne" (Leipzig: sphere, 2020). Eine fortlaufende Sammlungsdokumentation gibt es unter <https://benkaden.tumblr.com/>.

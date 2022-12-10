@@ -547,7 +547,7 @@ angesehen werden.
 
 #### 4.3 Arbeitsländer der Autor\*innen
 
-![Abbildung 1: Arbeitsländer der Autor\*innen](img/abb1.PNG)
+![Abbildung 1: Arbeitsländer der Autor\*innen](img/abb1.png)
 
 Die Frage nach den Arbeitsländern der Autor\*innen aus der zweiten Frage
 wird für die dritte Frage auf die gesamte Welt ausgeweitet. Die
@@ -608,7 +608,7 @@ dem DACH-Raum geschehen.[^14]
 
 #### 4.4 Internationale Themen
 
-![Abbildung 2: In bibliothekarischen Zeitschriften des DACH-Raum thematisierte Länder](img/abb2.PNG)
+![Abbildung 2: In bibliothekarischen Zeitschriften des DACH-Raum thematisierte Länder](img/abb2.png)
 
 Ein Blick in die Daten, welche für die Beantwortung der vierten Frage
 genutzt werden, bestätigt die Tendenzen, die schon bei den Antworten auf
@@ -1089,12 +1089,12 @@ werden.
 
 [^22]: Beispielsweise: Lang, Ulrike (2001). *Bericht der
     Bibliothekarischen Auslandsstelle*. In: Bibliotheksdienst (2001) 1:
-    14-16.
+    14–16.
 
 [^23]: Freytag, Jürgen (2001). *Nachholbedarf für Deutschland:
     Überlegungen zu einer Vergleichenden Bibliotheks- und
     Informationswissenschaft (VBIW)*. In: BuB: Forum für Bibliothek und
-    Information (2001) 9: 582-585. Meinhard, Haike (2011).
+    Information (2001) 9: 582–585. Meinhard, Haike (2011).
     *Vergleichende internationale Bibliothekswissenschaft: Eine
     Annäherung*. In: BuB: Forum für Bibliothek und Information (2011) 5:
     386-391.

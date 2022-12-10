@@ -292,7 +292,7 @@ Standard BIBFRAME in den letzten Jahren grundlegend entwickelt hat. Für
 alle, die sich schnell à jour stellen wollen, sei dieser Teil zur
 Lektüre empfohlen. (ks)
 
-#### 2.2 COVID-19 und die Bibliotheken, Vierte Welle
+#### 2.2 COVID-19 und die Bibliotheken, Fünfte Welle
 
 Guernsey, Lisa ; Prescott, Sabia ; Park, Claire (2022). *A Pandemic
 Snapshot: Libraries' Digital Shifts and Disparities to Overcome*. In:

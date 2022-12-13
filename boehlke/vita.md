@@ -1,2 +1,2 @@
 ---
-**Hannah Böhlke** ist studierte Historikerin und absolvierte den weiterbildenden Masterstudiengang Bibliotheks- und Informationswissenschaft an der Humboldt-Universität Berlin. Nach langjähriger Arbeit an der Akademie der Wissenschaften zu Göttingen ist sie seit 2020 im Universitätsverlag der Staats- und Universitätsbibliothek Göttingen beschäftigt.
+**Hannah Böhlke** ist studierte Historikerin und absolvierte den weiterbildenden Masterstudiengang Bibliotheks- und Informationswissenschaft an der Humboldt-Universität Berlin. Nach langjähriger Arbeit an der Akademie der Wissenschaften zu Göttingen ist sie seit 2020 im Universitätsverlag der Staats- und Universitätsbibliothek Göttingen beschäftigt. ORCID: <https://orcid.org/0000-0003-1711-7080>

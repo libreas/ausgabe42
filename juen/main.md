@@ -1111,7 +1111,6 @@ gestalten.
 
 Albrecht, S. (2015). *Library Security: Better Communication, Safer
 Facilities.* American Library Association.
-<https://ebookcentral.proquest.com/lib/huberlin-ebooks/detail.action?docID=2070053>
 
 Christensen, A. (2017). Benutzungsdienste zwischen Automation, Bau und
 Technik. *ABI-Technik*, 2017-11-27, Vol.37 (3), 249--255.

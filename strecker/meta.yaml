@@ -12,7 +12,8 @@ abstract: "Verschiedene Stakeholder fordern eine bessere Verfügbarkeit von Fors
 Dieser Beitrag fasst aktuelle Forschungsergebnisse über das Informationsverhalten von Datensuchenden zusammen. Anschließend werden beispielhaft zwei Suchdienste verschiedener Ausrichtung vorgestellt und verglichen. Um darzulegen, wie diese Dienste ineinandergreifen, werden inhaltliche Überschneidungen von Datenbeständen genutzt, um den Metadatenaustausch zu analysieren."
 abstractalt: "Various stakeholders are calling for better availability of research data. The success of these initiatives depends largely on good discoverability of published datasets, which is why Dataset Retrieval is gaining in importance. Dataset Retrieval is a special form of Information Retrieval that is concerned with finding datasets.
 This paper summarizes recent research on the information behavior of data users. Subsequently, two search services with different objectives are presented and compared. In order to show how these services interconnect, overlaps in content are used to analyze metadata exchange between them."
-pdf: "main.pdf"
+pdf: "https://doi.org/10.18452/25691"
+doi: "10.18452/25691"
 date: 2022-12-01
 comments: false
 sharing: true

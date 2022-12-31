@@ -8,7 +8,8 @@ year: "2022"
 contributor: 
 - Redaktion LIBREAS
 title: "Editorial #42: Das Leben, das Universum und der ganze Rest"
-pdf: "main.pdf"
+pdf: "https://doi.org/10.18452/25690"
+doi: "10.18452/25690"
 date: 2022-12-01
 comments: false
 sharing: true
